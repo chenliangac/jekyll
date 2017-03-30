@@ -1,7 +1,7 @@
-/jekyll_demo
-　　|--　_config.yml
-　　|--　_layouts
-　　|　　　|--　default.html 
-　　|--　_posts
-　　|　　　|--　2017-03-30-hello-world.html
-　　|--　index.html
+baseurl: /jekyll_demo
+            |--　_config.yml
+            |--　_layouts
+            |　　　|--　default.html 
+            |--　_posts
+            |　　　|--　2017-03-30-hello-world.html
+            |--　index.html
